@@ -1,2 +1,11 @@
 Anaconda
 https://www.anaconda.com/download
+
+Apache Spark
+https://www.anaconda.com/download
+
+Java JDK
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+7zip
+https://www.7-zip.org/download.html
